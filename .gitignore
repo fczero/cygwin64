@@ -41,8 +41,8 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
-./local/*
-./ssh/*
+.local/*
+.ssh/*
 .local/share/lftp/bg/room-pc-6032
 .local/share/lftp/bg/room-pc-1836
 .local/share/lftp/bg/room-pc-2240
@@ -58,3 +58,4 @@ Temporary Items
 .local/share/lftp/bg/room-pc-9924
 .local/share/lftp/bg/room-pc-6412
 .local/share/lftp/bg/room-pc-5972
+..bash_history
